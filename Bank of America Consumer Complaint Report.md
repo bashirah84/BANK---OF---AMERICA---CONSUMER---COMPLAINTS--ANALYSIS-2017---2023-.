@@ -16,12 +16,8 @@
 
 ---
 ## 🚀 **Introduction**   
-Bank of America, one of the largest financial institutions in the United States, receives thousands of consumer complaints each year. Behind every complaint is a story — a customer frustrated with a product, an unresolved issue, or a slow response. Collectively, these complaints form a powerful dataset revealing not just problems, but opportunities for improvement.  
-
-This project analyzes consumer complaint data submitted to the Consumer Financial Protection Bureau (CFPB) from 2017–2023. Using Excel and Power BI, I cleaned, transformed, and visualized the data to uncover trends, identify the products and issues driving the highest dissatisfaction, and evaluate how timely and effective the bank’s responses are.  
-
-The aim is to turn raw complaint data into actionable insights and practical recommendations that can guide Bank of America in improving its service delivery, strengthening customer relationships, and boosting overall satisfaction. This is more than an analysis — it’s a roadmap for change.
-
+The banking industry in the U.S is one of the largest and most customer-driven service sectors. With thousands of consumers interacting with financial products everyday, customer satisfaction and complaint resolution have become critical metrics for maintaining trust and competitiveness. 
+   Bank of America, as one of the largest banks , receives a significant number of consumer complaints filed through the Consumer Financial Protection Bureau (CFPB). This data presents an opportunity to understand pain points and improve service delivery.
 
 
 
@@ -31,13 +27,13 @@ This project focuses on analyzing operational, financial, and customer data from
 
 The analysis aims to provide insights that can support various stakeholders, including:
 
-Management: Optimize operations and make strategic decisions.
+Management:  Optimize operations and make strategic decisions.
 
-Operations & Customer Service Teams: Improve efficiency and enhance customer experience.
+Operations & Customer Service Teams:  Improve efficiency and enhance customer experience.
 
-Regulators / Oversight Bodies: Ensure compliance and monitor performance.
+Regulators / Oversight Bodies:  Ensure compliance and monitor performance.
 
-Customers / Public: Understand trends and improve engagement.
+Customers / Public:  Understand trends and improve engagement.
 
 ---
 ## 🎯 **Project Aim** 
