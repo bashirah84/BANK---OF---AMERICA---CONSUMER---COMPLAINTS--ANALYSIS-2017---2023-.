@@ -61,7 +61,7 @@ Power BI: Data visualization and dashboard creation.
 Excel: Data source and initial storage.
 
 ---
-## 📂 ** About the Dataset** 
+## 📂 **About the Dataset** 
 This dataset contains customer complaints submitted to the Consumer Financial Protection Bureau (CFPB) against Bank of America. It was imported from Excel into Power BI for visualization and analysis.
 
 Each record represents a single complaint and contains key details about the product, issue, response, and resolution timeline.
