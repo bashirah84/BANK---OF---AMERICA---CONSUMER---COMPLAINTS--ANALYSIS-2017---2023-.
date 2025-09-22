@@ -50,7 +50,7 @@ Customers / Public:  Understand trends and improve engagement.
 
 
   ---
-## 🛠 **Tools & Technologies** 
+## 🛠 **Tools** 
 
 Power BI: Data Cleaning, Data visualization and dashboard creation.
 
