@@ -52,9 +52,8 @@ Customers / Public:  Understand trends and improve engagement.
   ---
 ## 🛠 **Tools & Technologies** 
 
-Power BI: Data visualization and dashboard creation.
+Power BI: Data Cleaning, Data visualization and dashboard creation.
 
-Excel: Data source and initial storage.
 
 ---
 ## 📂 **About the Dataset** 
